@@ -1,6 +1,7 @@
-This project scrapes product information from Jumia, Africa’s largest e-commerce platforms. This project focuses on electronic products and I created a python script to extract structured data on these products for analysis 
+This project scrapes product information from [Jumia](https://www.jumia.com/), Africa’s largest e-commerce platforms. This project focuses on electronic products and I created a python script to extract structured data on these products for analysis 
 
-📌 Features
+## 📌 Features  
+---
 
 Extracts product name, price, rating, reviews, and availability
 
